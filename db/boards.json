@@ -1,0 +1,22 @@
+{
+  "board1": {
+    "name": "Fashion",
+    "description": "clothes and things",
+    "pinnerUid": "YvJ1yUFcFWcsEmIHWIIUP2jXiQd2"
+  },
+  "board2": {
+    "name": "Tattoos",
+    "description": "if I didn't hate needles",
+    "pinnerUid": "YvJ1yUFcFWcsEmIHWIIUP2jXiQd2"
+  },
+  "board3": {
+    "name": "Dogs",
+    "description": "bark bark",
+    "pinnerUid": "472572457"
+  },
+  "board4": {
+    "name": "Cats",
+    "description": "fluffy angels",
+    "pinnerUid": "2454363456"
+  }
+}
