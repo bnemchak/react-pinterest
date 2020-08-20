@@ -1,0 +1,26 @@
+{
+  "pin1": {
+    "boardId": "board1",
+    "title": "Fashion Show",
+    "imageUrl": "https://media.vogue.co.uk/photos/5e1749b76305150008f624d8/16:9/w_1920,c_limit/ss20trends.png",
+    "uid": "YvJ1yUFcFWcsEmIHWIIUP2jXiQd2"
+  },
+  "pin2": {
+    "boardId": "board1",
+    "title": "best shoes",
+    "imageUrl": "https://www.balenciaga.com/66/11/11364456dd_12_a_f.jpg",
+    "uid": "YvJ1yUFcFWcsEmIHWIIUP2jXiQd2"
+  },
+  "pin3": {
+    "boardId": "board2",
+    "title": "Tom and Jerry",
+    "imageUrl": "https://static.boredpanda.com/blog/wp-content/uploads/2019/05/matching-tattoo-ideas-3-5ce53d592e1d3__700.jpg",
+    "uid": "YvJ1yUFcFWcsEmIHWIIUP2jXiQd2"
+  },
+  "pin4": {
+    "boardId": "board2",
+    "title": "Sunglass Skyline",
+    "imageUrl": "https://media.timeout.com/images/105165658/630/472/image.jpg",
+    "uid": "YvJ1yUFcFWcsEmIHWIIUP2jXiQd2"
+  }
+}
